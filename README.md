@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/ucoxrcwyhfsmgbgbpjgip6kw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucoxrcwyhfsmgbgbpjgip6kw" height="30" width="40" /></a>
-<a href="https://discord.gg/2L#1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2L#1337" height="30" width="40" /></a>
+<a href="https://discord.gg/aKd3Axsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aKd3Axsb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
