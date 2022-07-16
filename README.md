@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm 2L</h1>
 <h3 align="center">Im Known From Making Scripts For Roblox And C# Cheats, Clickers, Spoofers, Injectors.</h3>
 
-- 👨‍💻 I’m currently working on **Slap (Discord Bot)**
+- 👨‍💻 I’m currently working on ****
 
-- 👻 All of my scripts are available at [https://discord.gg/zp](https://discord.gg/zp)
+- 👻 All of my scripts are available [https://pastebin.com/raw/m1GufQgu](here)
 
 - 📫 How to reach me **Add Me On Discord, 2L#1337**
 
