@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working on ****
 
-- 👻 All of my scripts are available [https://pastebin.com/raw/m1GufQgu](here)
+- 👻 All of my scripts are available [here](https://pastebin.com/raw/m1GufQgu)
 
 - 📫 How to reach me **Add Me On Discord, 2L#1337**
 
