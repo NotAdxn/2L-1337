@@ -5,7 +5,7 @@
 
 - 👻 All of my scripts are available [here](https://pastebin.com/raw/m1GufQgu)
 
-- 📫 How to reach me **Add Me On Discord, Not Adxn#7987**
+- 📫 How to reach me **Add Me On Discord, Doritos Enjoyer#7987**
 
 - ⚡ Fun fact **Im 13 lol**
 
