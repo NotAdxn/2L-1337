@@ -8,9 +8,3 @@
 - 📫 How to reach me **Add Me On Discord, Doritos Enjoyer#7987**
 
 - ⚡ Fun fact **Im 13 lol**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/ucoxrcwyhfsmgbgbpjgip6kw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucoxrcwyhfsmgbgbpjgip6kw" height="30" width="40" /></a>
-<a href="https://discord.gg/aKd3Axsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aKd3Axsb" height="30" width="40" /></a>
-</p>
