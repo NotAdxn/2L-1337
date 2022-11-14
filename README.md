@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adxn</h1>
 <h3 align="center">Im Known From Making Scripts For Roblox And C# Cheats, Clickers, Spoofers, Injectors.</h3>
 
-- 👨‍💻 I’m currently learning **Pyhon**
+- 👨‍💻 I’m currently learning **Python**
 
 - 👻 All of my scripts are available [here](https://pastebin.com/raw/m1GufQgu)
 
