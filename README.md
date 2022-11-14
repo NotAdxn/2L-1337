@@ -5,6 +5,6 @@
 
 - 👻 All of my scripts are available [here](https://pastebin.com/raw/m1GufQgu)
 
-- 📫 How to reach me **Add Me On Discord, Not Adxn#5337**
+- 📫 How to reach me **Add Me On Discord, Not Adxn#0001**
 
 - ⚡ Fun fact **Im 13 lol**
